@@ -37,5 +37,5 @@ My main workstation for coding and gaming:
 
 ### 📫 Reach Me
 
-*   **Telegram:** [@YourTelegramTag](https://t.me/iarikov)
+*   **Telegram:** [@iarikov](https://t.me/iarikov)
 *   **Email:** steparikov@mail.ru
