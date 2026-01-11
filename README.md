@@ -35,17 +35,6 @@ My main workstation for coding and gaming:
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- Change YOUR_USERNAME to your actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=iarikov&show_icons=true&theme=dark&hide_border=true&align=left" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarikov&layout=compact&theme=dark&hide_border=true&align=left" alt="Languages" />
-
-<br clear="both">
-<br>
-
----
-
 ### 📫 Reach Me
 
 *   **Telegram:** [@YourTelegramTag](https://t.me/iarikov)
