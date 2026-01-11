@@ -1,20 +1,18 @@
-<div align="center">
+# Hi there, I'm iarikov! 👋
 
-# Hi there, I'm [Твое Имя/Ник]! 👋
-
-<!-- Navigation Menu like VityaSchel's -->
+<!-- Navigation Menu -->
 [ **About me** ](#-about-me) • [ **My Stack** ](#-my-stack) • [ **Contacts** ](#-reach-me)
 
 ---
 
 ### 🚀 About Me
 
-I'm a 16-year-old developer from **Russia** 🇷🇺. <br>
+I'm a 16-year-old developer from **Russia** 🇷🇺.
 Currently, I'm diving deep into the world of **Python** and computer science.
 
-🌱 **I’m currently learning:** Python Syntax, OOP, and basic algorithms.  
-🤔 **I’m looking for:** Interesting open-source projects to learn from.  
-✨ **Fun fact:** I love solving problems and automating boring stuff.
+*   🌱 **I’m currently learning:** Python Syntax, OOP, and basic algorithms.
+*   🤔 **I’m looking for:** Interesting open-source projects to learn from.
+*   ✨ **Fun fact:** I love solving problems and automating boring stuff.
 
 ---
 
@@ -32,11 +30,12 @@ Here are the technologies I'm currently working with:
 
 ### 📊 GitHub Stats
 
-<!-- These are dynamic widgets. They update automatically! [...](asc_slot://start-slot-3)-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Languages" />
-</p>
+<!-- Change YOUR_USERNAME to your actual GitHub username -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&align=left" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&align=left" alt="Languages" />
+
+<br clear="both">
+<br>
 
 ---
 
@@ -44,13 +43,9 @@ Here are the technologies I'm currently working with:
 
 If you want to chat or code together, feel free to reach out!
 
-*   **Telegram:** [@YourTelegramTag](https://t.me/YourTelegramTag)
-*   **Email:** your-email@example.com
+*   **Telegram:** [@YourTelegramTag](https://t.me/steparikov)
+*   **Email:** steparikov@mail.ru
 
 <br>
 
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
-</p>
-
-</div>
+<i>Thanks for visiting my profile!</i>
