@@ -1,5 +1,5 @@
 <!-- Replace the link below with your GIF URL -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R4bzF4b2c0Y3R4bzF4b2c0Y3R4bzF4b2c0Y3R4bzF4b2c0/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Header GIF">
+<img src="https://github.com/iarikov/iarikov/blob/main/5opka.gif?raw=true" width="100%" alt="Header GIF">
 
 # Hi there, I'm iarikov! 👋
 
