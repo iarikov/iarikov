@@ -1,7 +1,7 @@
 <!-- Replace the link below with your GIF URL -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R4bzF4b2c0Y3R4bzF4b2c0Y3R4bzF4b2c0Y3R4bzF4b2c0/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Header GIF">
 
-# Hi there, I'm [Твое Имя/Ник]! 👋
+# Hi there, I'm iarikov! 👋
 
 I'm a 16-year-old developer from **Russia** 🇷🇺.
 Currently, I'm diving deep into the world of **Python** and open-source.
