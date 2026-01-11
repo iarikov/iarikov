@@ -1,26 +1,33 @@
-# Hi there, I'm iarikov! 👋
+<!-- Replace the link below with your GIF URL -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R4bzF4b2c0Y3R4bzF4b2c0Y3R4bzF4b2c0Y3R4bzF4b2c0/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Header GIF">
 
-<!-- Navigation Menu -->
-[ **About me** ](#-about-me) • [ **My Stack** ](#-my-stack) • [ **Contacts** ](#-reach-me)
-
----
-
-### 🚀 About Me
+# Hi there, I'm [Твое Имя/Ник]! 👋
 
 I'm a 16-year-old developer from **Russia** 🇷🇺.
-Currently, I'm diving deep into the world of **Python** and computer science.
+Currently, I'm diving deep into the world of **Python** and open-source.
 
 *   🌱 **I’m currently learning:** Python Syntax, OOP, and basic algorithms.
-*   🤔 **I’m looking for:** Interesting open-source projects to learn from.
-*   ✨ **Fun fact:** I love solving problems and automating boring stuff.
+*   🤔 **I’m looking for:** Interesting projects to learn from.
+*   🐧 **OS:** I use **Ubuntu 24.04** as my daily driver.
 
 ---
 
-### 💻 My Stack
+### 💻 My Setup
 
-Here are the technologies I'm currently working with:
+My main workstation for coding and gaming:
 
-| Language | Status |
+| Component | Specs |
+| :--- | :--- |
+| **GPU** 🎮 | NVIDIA RTX 3060 |
+| **CPU** 🧠 | Ryzen 5 5600 |
+| **RAM** ⚡ | 16GB DDR4 |
+| **OS** 🐧 | Ubuntu 24.04 LTS |
+
+---
+
+### 🛠 Languages & Tools
+
+| Language | Proficiency |
 | :--- | :--- |
 | **Python** 🐍 | 🟢 Learning / Active |
 | **English** 🇬🇧 | 🟡 Intermediate |
@@ -31,8 +38,8 @@ Here are the technologies I'm currently working with:
 ### 📊 GitHub Stats
 
 <!-- Change YOUR_USERNAME to your actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&align=left" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&align=left" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=iarikov&show_icons=true&theme=dark&hide_border=true&align=left" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarikov&layout=compact&theme=dark&hide_border=true&align=left" alt="Languages" />
 
 <br clear="both">
 <br>
@@ -41,11 +48,5 @@ Here are the technologies I'm currently working with:
 
 ### 📫 Reach Me
 
-If you want to chat or code together, feel free to reach out!
-
-*   **Telegram:** [@YourTelegramTag](https://t.me/steparikov)
+*   **Telegram:** [@YourTelegramTag](https://t.me/iarikov)
 *   **Email:** steparikov@mail.ru
-
-<br>
-
-<i>Thanks for visiting my profile!</i>
