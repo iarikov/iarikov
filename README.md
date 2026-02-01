@@ -1,4 +1,3 @@
-<!-- Replace the link below with your GIF URL -->
 <img src="https://github.com/iarikov/iarikov/blob/main/5opka.gif?raw=true" width="100%" alt="Header GIF">
 
 # Hi there, I'm iarikov! 👋
