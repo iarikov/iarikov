@@ -38,3 +38,5 @@ My main workstation for coding and gaming:
 
 *   **Telegram:** [@iarikov](https://t.me/iarikov)
 *   **Email:** steparikov@mail.ru
+
+#fuckrkn #freediscord #freetelegram
