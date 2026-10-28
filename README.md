@@ -7,7 +7,7 @@ Currently, I'm diving deep into the world of **Python** and open-source.
 
 *   🌱 **I’m currently learning:** Python Syntax, OOP, and basic algorithms.
 *   🤔 **I’m looking for:** Interesting projects to learn from.
-*   🐧 **OS:** I use **Ubuntu 24.04** as my daily driver.
+*   🐧 **OS:** I use **EndeavourOS** as my daily driver.
 
 ---
 
