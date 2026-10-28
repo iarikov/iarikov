@@ -20,7 +20,7 @@ My main workstation for coding and gaming:
 | **GPU** 🎮 | NVIDIA RTX 3060 |
 | **CPU** 🧠 | Ryzen 5 5600 |
 | **RAM** ⚡ | 16GB DDR4 |
-| **OS** 🐧 | Ubuntu 24.04 LTS |
+| **OS** 🐧 | EndeavourOS |
 
 ---
 
